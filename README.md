@@ -1,7 +1,7 @@
 ![Minecraft Edisi Melayu Bug Tracker](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker/assets/77572972/4a21d556-5388-4489-9f1c-b4816aefecbf)
 # The official bug tracker for all Minecraft: Edisi Melayu related packs and projects
 
-## Use the following labels when doing filing a issue on [the tracker](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker/issues)
+## Use the following labels when filing an issue on [the tracker](https://github.com/Minecraft-EdisiMelayu/MCEM-BugTracker/issues)
 
 | Labels | Explanation |
 | :---: | :---: |
