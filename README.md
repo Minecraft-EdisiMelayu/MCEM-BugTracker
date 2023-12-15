@@ -12,3 +12,7 @@
 | `enhancement` | For new feature requests for any packs |
 | `bug` | For reporting bugs found in any of the included packs |
 | `questions` | For any questions regarding any of the included packs |
+
+## [Download Links](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki/Resource-Pack-Download-Pages)
+
+## [Official Wiki](https://github.com/Minecraft-EdisiMelayu/MCEM-Wiki/wiki)
