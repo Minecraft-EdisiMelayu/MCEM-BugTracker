@@ -10,6 +10,7 @@
 | `busana_melayu` | Anything regarding the [Busana Melayu](https://modrinth.com/resourcepack/busana-melayu) resource pack |
 | `senjata_melayu` | Anything regarding the [Senjata Melayu](https://modrinth.com/resourcepack/senjata-melayu) resource pack |
 | `site` | Anything regarding the official website, wiki or this bug tracker itself |
+| `new_project_ideas` | For new project ideas |
 | `wip_project` | For currently still-in-development projects (shouldn't be used by anyone other than me) |
 | `enhancement` | For new feature requests for any packs |
 | `bug` | For reporting bugs found in any of the included packs |
